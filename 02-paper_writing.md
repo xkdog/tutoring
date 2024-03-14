@@ -18,7 +18,8 @@
 - 《心理学研究方法：从选题到论文发表》，王轶楠著，中国人民大学出版社，2020年版。
 - 《心理与教育论文写作：方法、规则与实践技巧》，侯杰泰、邱炳武、常建芳 著，中国人民大学出版社，2019年版。
 - [《心理学报》](https://journal.psych.ac.cn/xlxb/CN/0439-755X/home.shtml) [《心理科学进展》](https://journal.psych.ac.cn/xlkxjz/CN/1671-3710/home.shtml) [《心理科学》](http://www.psysci.org/CN/1671-6981/home.shtml) [《应用心理学》](http://www.appliedpsy.cn/CN/volumn/home.shtml) [《中国临床心理学杂志》](http://www.clinicalpsychojournal.com/) 的投稿指南及自检报告（网站上一般可下载）。多数杂志的论文，都可以在网站在免费下载。
-- 一般不必读其他人的硕士论文。实证论文，一般读前面除了《心理科学进展》之外的几个杂志的文章即可。
+- 一般不必读其他人的硕士论文。实证论文，一般读前面除了《心理科学进展》之外的几个杂志的文章即可。然后，再按图索骥，去寻找对应的英文文献。
+- 要掌握使用谷歌学术，要掌握[sci-hub.se](https://sci-hub.se/)。如果发现上不去，可先上[这里](https://ghelper.net/)。至少可以使用[谷粉学术](https://gfsoso.99lb.net/)。这些网址可能随时出问题，且用且珍惜。
 
 ## 选题
 
