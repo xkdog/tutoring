@@ -147,7 +147,7 @@
 以下理解，多数是学术共同体共同的潜在理念，有些只代表我个人的观点。
 
 - 学术论文不是为了发表观点，也不是为了报告事实，而是为了展示分析能力和写作能力。
-- 研究和写作基本上是两种能力，但研究人员需要同时掌握这两种能力。As a reseacher/professor, you have to be a professional writer.
+- 研究和写作基本上是两种能力，但研究人员需要同时掌握这两种能力。As a reseacher/professor, you have to be a professional writer. 
 - 研究首重创新，写作重在“取巧”。理想而言，创新是实质内容，取巧是指表达形式。但实际中，绝大多数时候是后者决定了前者。
 - 学术写作面向读者。要学会准确地定位自身论文的“读者群”，使其在思想上“受益”，认为自己的研究“有价值”，从而接受你的论文（发表，或者通过答辩）。
 
@@ -157,7 +157,7 @@
 
 
 - 《研究是一门艺术》，韦恩·C. 布斯等著，新华出版社，2021年。及其英文版，*The Art of Research*，对照着读，可以学会更多。
-- 《文风优雅——让写作清晰优雅的11堂课》，约瑟夫·M.威廉姆斯(JosephM.Williams)，约瑟夫·毕祖普（Joseph Bizup）著，上海教育出版社，2022年。及其英文版，*Style: The Basics of Clarity and Grace*。
+- 《文风优雅——让写作清晰优雅的11堂课》，约瑟夫·M.威廉姆斯(Joseph M.Williams)，约瑟夫·毕祖普（Joseph Bizup）著，上海教育出版社，2022年。及其英文版，*Style: The Basics of Clarity and Grace*。
 - 为了找到这些英文书，你可能需要在了解sci-hub、谷歌学术之外，另外知道[z-library](https://zlibrary-africa.se/?signAll=1&ts=1006)、[libgen](http://gen.lib.rus.ec/)等网站。
  
 ## 格式训练
