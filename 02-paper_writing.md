@@ -146,19 +146,20 @@
 
 以下理解，多数是学术共同体共同的潜在理念，有些只代表我个人的观点。
 
-- 学术论文不是为了发表观点，也不是为了报告事实，而是为了展示分析能力和写作能力。
+- 学术论文不是为了表达观点，也不是为了报告事实，而是为了展示分析能力和写作能力。
 - 研究和写作基本上是两种能力，但研究人员需要同时掌握这两种能力。As a reseacher/professor, you have to be a professional writer. 
-- 研究首重创新，写作重在“取巧”。理想而言，创新是实质内容，取巧是指表达形式。但实际中，绝大多数时候是后者决定了前者。
+- 研究首重创新，写作需要“讨巧”。逻辑上讲，创新是实质，讨巧只是表面工夫。但实际中，绝大多数时候是后者决定了前者。
 - 学术写作面向读者。要学会准确地定位自身论文的“读者群”，使其在思想上“受益”，认为自己的研究“有价值”，从而接受你的论文（发表，或者通过答辩）。
 
-应当在前述讲述科学研究的一般规范和写作格式的教材的基础上，认真地看[ Larry McEnerney](https://news.uchicago.edu/story/how-one-scholar-shaped-writing-generations-students)（Director of the University of Chicago’s Writing Program）所做的 *the Craft of Writing Effectively*　这一[演讲](https://www.youtube.com/watch?v=vtIzMaLkCaM)及其[配套文档](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/)。如果你能上github，应当能知道如何播放这一视频。这一视频的写作思想体现了芝加哥大学的论文写作风格，是高标准的要求，目的是写出代表作，或发表项刊水准的论文。它不能教会你如何进行具体的学术写作，但会开拓你的学术写作视野，或是“纠正”你的科研价值观。
+应当在前述讲述科学研究的一般规范和写作格式的教材的基础上，认真观看[ Larry McEnerney](https://news.uchicago.edu/story/how-one-scholar-shaped-writing-generations-students)（Director of the University of Chicago’s Writing Program）所做的 *the Craft of Writing Effectively*　这一[演讲](https://www.youtube.com/watch?v=vtIzMaLkCaM)及其[配套文档](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/)。如果你能上github，应当能知道如何播放这一视频。这一视频的写作思想体现了芝加哥大学的论文写作风格，是高标准的要求，目的是写出代表作，或发表项刊水准的论文。它不能教会你如何进行具体的学术写作，但会开拓你的学术写作视野，或是“纠正”你的科研价值观。
 
 这一视频建议认真观看3篇以上。从配合字幕理解，到脱离字幕理解，听懂他的要义。然后，可以进一步通读以下著作。前述视频其实正是这两本书，以及芝加哥大学学术写作系列图书及学术传统的精华版。在“现场”听讲后，再去读这些书，收获会更大，并能提供更具体的指导。这种指导，即使在博士生涯结束后，也会持续。例如，在申请学术课题时，也需要反复阅读体会其中的见解，并转化为自己的写作实践。他们的英文写作也浅显直白，干净利落，能读APA系列英文论文的人，完全不存在阅读困难，而且收获可能比读一般的论文还要大。虽然个人认为他们的写作理念更适合人文及社会科学的研究者，但对更广泛的行为科学和自然科学的写作，也是有益的启迪。
 
 
 - 《研究是一门艺术》，韦恩·C. 布斯等著，新华出版社，2021年。及其英文版，*The Art of Research*，对照着读，可以学会更多。
 - 《文风优雅——让写作清晰优雅的11堂课》，约瑟夫·M.威廉姆斯(Joseph M.Williams)，约瑟夫·毕祖普（Joseph Bizup）著，上海教育出版社，2022年。及其英文版，*Style: The Basics of Clarity and Grace*。
-- 为了找到这些英文书，你可能需要在了解sci-hub、谷歌学术之外，另外知道[z-library](https://zlibrary-africa.se/?signAll=1&ts=1006)、[libgen](http://gen.lib.rus.ec/)等网站。
+
+为了找到这些英文书，你可能需要在了解sci-hub、谷歌学术之外，另外知道[z-library](https://zlibrary-africa.se/?signAll=1&ts=1006)、[libgen](http://gen.lib.rus.ec/)等网站。
  
 ## 格式训练
 
@@ -170,7 +171,7 @@
 
 建议坚持“四个一”：针对一个问题、定位一类人群、采用一种方法、得出一个结论。或者说，要为一个结论或一个观点，提供高质量的论证和高密度的论据。论文不要散，形神都不能松，从篇幅到方法到内容，都要紧凑。
 
-- 不必为了追求篇幅而写多余的字，增加篇幅的目的应是为了增强论证的质量，一般来说这需要通过增加研究内容，或者是强化讨论的深度，而不是把表格内容做得丰富一些、统计指标多报告一些、参考文献多引用一些。
+- 不必为了追求篇幅而写多余的字。增加篇幅的目的应是为了增强论证的质量，一般来说这需要通过增加研究内容，或者是强化讨论的深度，而不是把表格内容做得丰富一些、统计指标多报告一些、参考文献多引用一些。
 
 - 不要为了增加篇幅而乱用“混合方法”。一般也只能在量化方法与量化方法之间做结合（如问卷＋实验），而不要幻想在量化与质性之间“打通仁督二脉”做结合。即使你能“打通”，评审人也“打不通”，因此无法判断你是否已经“打通”。
 
