@@ -148,6 +148,7 @@
 
 - 学术论文不是为了发表观点，也不是为了报告事实，而是为了展示分析能力和写作能力。
 - 研究和写作基本上是两种能力，但研究人员需要同时掌握这两种能力。As a reseacher/professor, you have to be a professional writer.
+- 研究首重创新，写作重在“取巧”。理想而言，创新是实质内容，取巧是指表达形式。但实际中，绝大多数时候是后者决定了前者。
 - 学术写作面向读者。要学会准确地定位自身论文的“读者群”，使其在思想上“受益”，认为自己的研究“有价值”，从而接受你的论文（发表，或者通过答辩）。
 
 应当在前述讲述科学研究的一般规范和写作格式的教材的基础上，认真地看[ Larry McEnerney](https://news.uchicago.edu/story/how-one-scholar-shaped-writing-generations-students)（Director of the University of Chicago’s Writing Program）所做的 *the Craft of Writing Effectively*　这一[演讲](https://www.youtube.com/watch?v=vtIzMaLkCaM)及其[配套文档](https://buomsoo-kim.github.io/learning/2020/03/30/Craft-of-writing-effectively.md/)。如果你能上github，应当能知道如何播放这一视频。这一视频的写作思想体现了芝加哥大学的论文写作风格，是高标准的要求，目的是写出代表作、发表项刊水准的论文。它不能教会你如何进行具体的学术写作，但会开拓（或纠正）你的学术写作视野（价值观）。
