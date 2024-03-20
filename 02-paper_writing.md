@@ -178,7 +178,7 @@
 
 - 论文应选择高级别刊物的代表性著作，如Science, Nature, Nature Human Behavior, PNAS等综合性刊物上的相关论文，或者[Journal of Personality and Social Psychology](https://www.apa.org/pubs/journals/psp/index), [Personality and Social Psychology Bulletin](https://journals.sagepub.com/toc/pspc/current), [Psychological Science](https://journals.sagepub.com/toc/pssa/current)等代表性刊物上的相关论文，掌握社会心理学的主流研究风格。
 
-- 国内刊物心理学的刊物主要阅读《心理学报》。读到博士，一般其他的刊物应当学会“平视”甚至“俯视”，不能再以其他刊物的论文为样板。他们不应当作为样板，应当作为一种参考。
+- 国内刊物心理学的刊物主要阅读《心理学报》。读到博士，一般其他的刊物应当学会“平视”甚至“俯视”，不能再以其他刊物的论文为样板。它们不足以作为样板，但应作为重要参考。
   
 - 如果是拿社会学下的社会心理学的博士学位，还要考虑社会学的风格。代表性刊物是《社会学研究》，与《心理学报》的风格大相径庭，要学会适应。这需要一对一地谈，不一定所有学生都同时变成“裂脑人”，能够“左右互搏”，在社会学与心理学两种风格之间来回穿梭。一般要比较多种风格，然后选择其中最适合自己的一种，努力精进。
 
